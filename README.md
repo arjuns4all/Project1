@@ -1,2 +1,3 @@
-# Project1
-valaxy project1
+# maven-project
+
+Simple Maven Project for Devops
